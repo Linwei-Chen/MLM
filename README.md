@@ -2,6 +2,6 @@
 
 A large scale high quality dataset for map generation at multiple zoom levels.
 
-![](shanghai.png)
+![](./static/shanghai.png)
 
-![](rio.png)
+![](./static/rio.png)
